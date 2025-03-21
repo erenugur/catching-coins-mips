@@ -1,14 +1,14 @@
 #################################################################
-# Author:	Eren Ugur					                                    #
-# Date:		April 29, 2024					                              #
-# Description:	Catching Coins Game				                      #
-#								                                                #
-#	     	Bitmap Display Settings				                          #
-#	- Unit Width in Pixels: 8				                              #
-#	- Unit Height in Pixels: 8				                            #
-#	- Display Width in Pixels: 512				                        #
-#	- Display Height in Pixels: 256				                        #
-#	- Base address for display: 0x10010000 (static data)	        #
+# Author:	Eren Ugur					#
+# Date:		April 29, 2024					#
+# Description:	Catching Coins Game				#
+#								#
+#	     	Bitmap Display Settings				#
+#	- Unit Width in Pixels: 8				#
+#	- Unit Height in Pixels: 8				#
+#	- Display Width in Pixels: 512				#
+#	- Display Height in Pixels: 256				#
+#	- Base address for display: 0x10010000 (static data)	#
 #################################################################
 
 .data
